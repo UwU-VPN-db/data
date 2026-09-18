@@ -31,12 +31,13 @@ https://raw.githubusercontent.com/UwU-VPN-db/data/main/<путь к файлу>
 | `device_new.jpg` | уведомление «Новое устройство» | `pic_device_new` |
 | `key_rename.jpg` | ввод нового названия ключа | `pic_key_rename` |
 | `ref_menu.jpg` | «Пригласить друга» | `pic_ref_menu` |
-| `support.jpg` | поддержка | `pic_support` |
+| `support.gif` | поддержка | `pic_support` |
+| `promo_input.png` | ввод промокода | `pic_promo_input` |
 | `pay_wait.gif` | чек выставлен, ждём оплату | `gif_yoocheck_check` |
 | `pay_success.gif` | оплата прошла | `gif_yoocheck_success` |
 
-Своей картинки пока нет у трёх экранов — вместо неё бот показывает серую заглушку
-с подписью: карточка устройства, ввод промокода, уведомление о лимите устройств.
+Своей картинки пока нет у двух экранов — вместо неё бот показывает серую заглушку
+с подписью: карточка устройства и уведомление о лимите устройств.
 Чтобы заменить заглушку, положите файл в `screens/` и поправьте одну строку в `ui.py`.
 
 Обложки лучше держать горизонтальными или квадратными. Вертикальную картинку телефон
@@ -57,8 +58,8 @@ https://raw.githubusercontent.com/UwU-VPN-db/data/main/<путь к файлу>
 ## stock/ — запас под будущие экраны
 
 Картинки без места: подходят на замену заглушкам, но пока никуда не назначены.
-`cat_waiting.jpg`, `money_cigar.jpg`, `money_musk.png`, `thanks_vip.jpg`,
-`support_alt.jpg` — запасной вариант обложки поддержки.
+`cat_waiting.jpg`, `money_cigar.jpg`, `thanks_vip.jpg`, а также два запасных
+варианта обложки поддержки: `support_penguin.jpg` и `support_alt.jpg`.
 
 ## apps/ — установщики V2rayTun
 
