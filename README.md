@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/UwU-VPN-db/data/main/<путь к файлу>
 | `error.jpg` | любая ошибка ввода | `pic_custom_deposit_err` |
 | `devices.jpg` | список устройств ключа | `pic_devices` |
 | `device_new.jpg` | уведомление «Новое устройство» | `pic_device_new` |
+| `device_limit.jpg` | уведомление «Лимит устройств» | `pic_device_limit` |
 | `key_rename.jpg` | ввод нового названия ключа | `pic_key_rename` |
 | `ref_menu.jpg` | «Пригласить друга» | `pic_ref_menu` |
 | `support.mp4` | поддержка | `pic_support` |
@@ -37,7 +38,7 @@ https://raw.githubusercontent.com/UwU-VPN-db/data/main/<путь к файлу>
 | `pay_success.mp4` | оплата прошла | `anim_pay_success` |
 
 Своей картинки пока нет у двух экранов — вместо неё бот показывает серую заглушку
-с подписью: карточка устройства и уведомление о лимите устройств.
+с подписью: карточка устройства и экран «Подключить».
 Чтобы заменить заглушку, положите файл в `screens/` и поправьте одну строку в `ui.py`.
 
 Обложки лучше держать горизонтальными или квадратными. Вертикальную картинку телефон
