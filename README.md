@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/UwU-VPN-db/data/main/<путь к файлу>
 | `bonus_menu.jpg` | бонусный счёт | `pic_bonus_menu` |
 | `error.jpg` | любая ошибка ввода | `pic_custom_deposit_err` |
 | `devices.jpg` | список устройств ключа | `pic_devices` |
-| `device_new.jpg` | уведомление «Новое устройство» | `pic_device_new` |
+| `device_added.jpg` | уведомление «Новое устройство» | `pic_device_new` |
 | `device_limit.jpg` | уведомление «Лимит устройств» | `pic_device_limit` |
 | `key_rename.jpg` | ввод нового названия ключа | `pic_key_rename` |
 | `ref_menu.jpg` | «Пригласить друга» | `pic_ref_menu` |
@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/UwU-VPN-db/data/main/<путь к файлу>
 ## stock/ — запас под будущие экраны
 
 Картинки без места: подходят на замену заглушкам, но пока никуда не назначены.
-`cat_waiting.jpg`, `money_cigar.jpg`, `thanks_vip.jpg`, а также два запасных
+`cat_waiting.jpg`, `money_cigar.jpg`, `thanks_vip.jpg`, `press_conference.jpg`, а также два запасных
 варианта обложки поддержки: `support_penguin.jpg` и `support_alt.jpg`.
 
 ## apps/ — установщики V2rayTun
