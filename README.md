@@ -31,6 +31,7 @@ https://raw.githubusercontent.com/UwU-VPN-db/data/main/<путь к файлу>
 | `device_added.jpg` | уведомление «Новое устройство» | `pic_device_new` |
 | `key_rename.jpg` | ввод нового названия ключа | `pic_key_rename` |
 | `ref_menu.jpg` | «Пригласить друга» | `pic_ref_menu` |
+| `review.jpg` | просьба оценить VPN через сутки после подключения | `pic_review` |
 | `support.mp4` | поддержка | `pic_support` |
 | `promo_input.png` | ввод промокода | `pic_promo_input` |
 | `pay_wait.mp4` | чек выставлен, ждём оплату | `anim_pay_wait` |
